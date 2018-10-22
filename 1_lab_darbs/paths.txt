@@ -1,0 +1,4 @@
+export PATH=$PATH:$HOME/anaconda3/bin
+export SPARK_HOME='/home/ubuntu/spark-2.0.0-bin-hadoop2.7'
+export PATH=$SPARK_HOME:$PATH
+export PYTHONPATH=$SPARK_HOME/python:$PYTHONPATH
